@@ -2,6 +2,7 @@
 
 setwd("C:/Users/aruna/Documents/SC-RNA-SEQ")
 #*****************************************************
+#loading the libraries
 library(SingleR)
 library(scran)
 library(ggplot2)
